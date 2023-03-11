@@ -1,2 +1,2 @@
 # Ohjemistotekniikka
-Palautukset kurssille Software Engineering 2023
+Koodit kurssin Software Engineering 2023 kotitehtäviä varten
